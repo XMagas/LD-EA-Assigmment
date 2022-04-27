@@ -922,3 +922,160 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.26-12.07.58:108][167]LogActorFactory: Actor Factory created SM_LDK2_floor_4x4
 [2022.04.26-12.08.00:621][282]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
 [2022.04.26-12.08.01:249][309]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_floor_4x4)
+[2022.04.26-12.09.59:564][  8]LogStaticMesh: Building static mesh SM_LDK2_wall_400...
+[2022.04.26-12.09.59:647][  8]LogStaticMesh: Built static mesh [0.08s] /Game/LDK_Assets/SM_LDK2_wall_400.SM_LDK2_wall_400
+[2022.04.26-12.09.59:987][  8]LogActorFactory: Actor Factory created SM_LDK2_wall_400
+[2022.04.26-12.10.02:740][110]LogActorFactory: Actor Factory created SM_LDK2_wall_400
+[2022.04.26-12.10.09:442][417]Cmd: DELETE
+[2022.04.26-12.10.09:442][417]Cmd: ACTOR DELETE
+[2022.04.26-12.10.09:444][417]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.26-12.10.09:466][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.04.26-12.10.09:468][417]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2022.04.26-12.11.18:485][554]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2022.04.26-12.11.18:501][554]LogContentBrowser: Creating deferred item: NewWorld
+[2022.04.26-12.11.26:688][ 38]LogContentBrowser: Attempting asset rename: NewWorld -> TheKeepLevel
+[2022.04.26-12.11.26:766][ 38]LogContentBrowser: End creating deferred item NewWorld
+[2022.04.26-12.11.28:472][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.04.26-12.11.29:673][124]LogSlate: Window 'Save Content' being destroyed
+[2022.04.26-12.11.29:826][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.04.26-12.11.29:895][124]LogSavePackage: Moving 'C:/Users/andre/Documents/University Stuff/Future Games/LD-EA Course/LD-EA Game/LD-EA-Assigmment/LD_EA_Assignment/Saved/TheKeepLevel4813245D4BE4E5DDF3B22B9F5BB6872C.tmp' to 'C:/Users/andre/Documents/University Stuff/Future Games/LD-EA Course/LD-EA Game/LD-EA-Assigmment/LD_EA_Assignment/Content/TheKeepLevel.umap'
+[2022.04.26-12.11.29:936][124]LogFileHelpers: Saving map 'TheKeepLevel' took 0.145
+[2022.04.26-12.11.29:942][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.04.26-12.11.30:075][124]LogSavePackage: Moving 'C:/Users/andre/Documents/University Stuff/Future Games/LD-EA Course/LD-EA Game/LD-EA-Assigmment/LD_EA_Assignment/Saved/ThirdPersonExampleMapEEE7C89C4F435210E87C7AA22674CE69.tmp' to 'C:/Users/andre/Documents/University Stuff/Future Games/LD-EA Course/LD-EA Game/LD-EA-Assigmment/LD_EA_Assignment/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.04.26-12.11.30:080][124]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.144
+[2022.04.26-12.11.30:156][124]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TheKeepLevel.TheKeepLevel
+[2022.04.26-12.11.30:156][124]Cmd: MAP LOAD FILE="C:/Users/andre/Documents/University Stuff/Future Games/LD-EA Course/LD-EA Game/LD-EA-Assigmment/LD_EA_Assignment/Content/TheKeepLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.26-12.11.30:157][124]LightingResults: New page: Lighting Build
+[2022.04.26-12.11.30:157][124]LoadErrors: New page: Loading map: TheKeepLevel.umap
+[2022.04.26-12.11.30:198][124]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-12.11.30:214][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-12.11.30:221][124]MapCheck: New page: Map Check
+[2022.04.26-12.11.30:221][124]LightingResults: New page: Lighting Build
+[2022.04.26-12.11.30:227][124]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.26-12.11.30:230][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.04.26-12.11.30:231][124]LogAudio: Display: Audio Device (ID: 1) registered with world 'TheKeepLevel'.
+[2022.04.26-12.11.30:284][124]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.26-12.11.30:284][124]LogAIModule: Creating AISystem for world TheKeepLevel
+[2022.04.26-12.11.30:304][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.04.26-12.11.30:309][124]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.26-12.11.30:309][124]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,14ms to complete.
+[2022.04.26-12.11.30:309][124]LogFileHelpers: Loading map 'TheKeepLevel' took 0.153
+[2022.04.26-12.11.30:350][124]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.26-12.11.30:361][124]LogContentValidation: Display: Validating World /Game/TheKeepLevel.TheKeepLevel
+[2022.04.26-12.11.30:361][124]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.04.26-12.11.45:686][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.04.26-12.11.45:727][979]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.04.26-12.11.45:727][979]LightingResults: New page: Lighting Build
+[2022.04.26-12.11.45:727][979]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2022.04.26-12.11.45:728][979]LogWorld: UWorld::CleanupWorld for TheKeepLevel, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-12.11.45:729][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-12.11.45:729][979]MapCheck: New page: Map Check
+[2022.04.26-12.11.45:729][979]LightingResults: New page: Lighting Build
+[2022.04.26-12.11.45:735][979]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.26-12.11.45:737][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.04.26-12.11.45:737][979]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2022.04.26-12.11.45:812][979]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.26-12.11.45:812][979]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.04.26-12.11.45:823][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.04.26-12.11.45:828][979]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.26-12.11.45:828][979]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,146ms to complete.
+[2022.04.26-12.11.45:828][979]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.101
+[2022.04.26-12.12.13:409][539]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere
+[2022.04.26-12.12.14:074][539]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 126 classes and 0 folders.
+[2022.04.26-12.12.16:403][539]LogSlate: Took 0.008622 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.04.26-12.12.16:941][540]LogSlate: Took 0.014756 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.04.26-12.12.26:751][930]LogSlate: Window 'BP_Sky_Sphere' being destroyed
+[2022.04.26-12.12.26:762][930]LogSlate: Window 'BP_Sky_Sphere' being destroyed
+[2022.04.26-12.12.26:766][930]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-12.12.26:766][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-12.12.36:476][454]Cmd: DELETE
+[2022.04.26-12.12.36:476][454]Cmd: ACTOR DELETE
+[2022.04.26-12.12.36:478][454]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.26-12.12.36:524][454]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.04.26-12.12.36:527][454]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2022.04.26-12.21.46:019][313]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.04.26-12.21.46:323][313]LogSavePackage: Moving 'C:/Users/andre/Documents/University Stuff/Future Games/LD-EA Course/LD-EA Game/LD-EA-Assigmment/LD_EA_Assignment/Saved/ThirdPersonExampleMap_Auto1928D07C3449FF6CE94B7DAA1F884E890.tmp' to 'C:/Users/andre/Documents/University Stuff/Future Games/LD-EA Course/LD-EA Game/LD-EA-Assigmment/LD_EA_Assignment/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2022.04.26-12.21.46:326][313]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.330
+[2022.04.26-12.21.46:326][313]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.330
+[2022.04.26-13.13.20:926][533]LogAudioMixer: Resetting audio stream to device id 
+[2022.04.26-13.13.20:940][533]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.26-13.13.20:940][533]LogAudioMixer: Display: 1: FrontRight
+[2022.04.26-13.13.37:296][581]LogAudioMixer: Resetting audio stream to device id 
+[2022.04.26-13.13.37:315][581]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.26-13.13.37:315][581]LogAudioMixer: Display: 1: FrontRight
+[2022.04.26-16.13.36:558][583]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.04.26-16.13.40:279][583]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.04.26-16.13.41:784][583]LogAudioMixer: Resetting audio stream to device id 
+[2022.04.26-16.13.42:284][583]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.26-16.13.42:284][583]LogAudioMixer: Display: 1: FrontRight
+[2022.04.26-16.13.42:855][584]LogHttp: Warning: 000002EED933F200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC3F80F1E-42DB-42CD-7C22-9AB28624AD8E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=fb973b304e99c5ebd7421aa8a74a2372%7C2b99501708e744bf8a474a19fc56635b%7C56b00584-a34e-44c4-a4e7-ff769b790e64&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.04.26-16.13.42:919][584]LogHttp: Warning: 000002EED933F200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.04.26-16.13.42:920][584]LogHttp: Warning: 000002EED933F200: libcurl info message cache 0 (Connection 0 seems to be dead!)
+[2022.04.26-16.13.42:920][584]LogHttp: Warning: 000002EED933F200: libcurl info message cache 1 (Closing connection 0)
+[2022.04.26-16.13.42:920][584]LogHttp: Warning: 000002EED933F200: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.04.26-16.13.42:920][584]LogHttp: Warning: 000002EED933F200: libcurl info message cache 3 (Closing connection 1)
+[2022.04.26-16.13.42:920][584]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC3F80F1E-42DB-42CD-7C22-9AB28624AD8E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=fb973b304e99c5ebd7421aa8a74a2372%7C2b99501708e744bf8a474a19fc56635b%7C56b00584-a34e-44c4-a4e7-ff769b790e64&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.04.26-16.13.43:304][584]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.04.26-16.13.43:304][584]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.04.26-16.13.43:304][584]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.04.26-16.13.43:451][584]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.04.26-16.13.43:486][584]LogAudioMixer: Resetting audio stream to device id 
+[2022.04.26-16.13.43:762][584]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.26-16.13.43:762][584]LogAudioMixer: Display: 1: FrontRight
+[2022.04.26-16.13.44:747][587]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.04.26-16.13.44:747][587]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.04.26-16.13.44:753][587]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.04.26-16.13.44:918][587]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.04.26-16.14.19:413][686]LogAudioMixer: Resetting audio stream to device id 
+[2022.04.27-09.15.43:687][686]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.27-09.15.43:688][686]LogAudioMixer: Display: 1: FrontRight
+[2022.04.27-09.15.57:656][687]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.04.27-09.15.57:656][687]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.04.27-09.15.57:722][687]LogAudioMixer: Resetting audio stream to device id 
+[2022.04.27-09.15.58:664][687]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.27-09.15.58:664][687]LogAudioMixer: Display: 1: FrontRight
+[2022.04.27-09.16.02:294][688]LogAudioMixer: Resetting audio stream to device id 
+[2022.04.27-09.16.02:324][688]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.27-09.16.02:324][688]LogAudioMixer: Display: 1: FrontRight
+[2022.04.27-09.21.41:712][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.04.27-09.21.43:986][698]LogSlate: Window 'Save Content' being destroyed
+[2022.04.27-09.21.44:532][698]LogSlate: Window 'LD_EA_Assignment - Unreal Editor' being destroyed
+[2022.04.27-09.21.47:791][699]Cmd: QUIT_EDITOR
+[2022.04.27-09.21.47:804][699]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.04.27-09.21.48:077][699]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.04.27-09.21.48:778][699]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.04.27-09.21.48:788][699]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.04.27-09.21.48:793][699]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonExampleMap'.
+[2022.04.27-09.21.48:900][699]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.27-09.21.48:905][699]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.27-09.21.49:072][699]LogAudio: Display: Audio Device Manager Shutdown
+[2022.04.27-09.21.49:116][699]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.27-09.21.49:246][699]LogExit: Preparing to exit.
+[2022.04.27-09.21.50:285][699]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2022.04.27-09.21.58:094][699]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.27-09.21.58:094][699]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.27-09.21.58:094][699]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.27-09.21.58:094][699]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.27-09.21.58:094][699]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.27-09.21.58:094][699]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.27-09.21.58:095][699]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.27-09.21.58:110][699]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-09.21.58:295][699]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.27-09.21.58:295][699]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.27-09.21.58:295][699]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.27-09.21.58:295][699]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.27-09.21.58:295][699]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.27-09.21.58:295][699]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.27-09.21.58:295][699]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.27-09.21.58:295][699]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-09.21.59:712][699]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-09.21.59:932][699]LogExit: Editor shut down
+[2022.04.27-09.21.59:995][699]LogExit: Transaction tracking system shut down
+[2022.04.27-09.22.00:561][699]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.04.27-09.22.10:485][699]LogExit: Object subsystem successfully closed.
+[2022.04.27-09.22.10:525][699]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.27-09.22.10:532][699]LogShaderCompilers: Display: Total job queries 16, among them cache hits 0 (0.00%)
+[2022.04.27-09.22.10:532][699]LogShaderCompilers: Display: Tracking 16 distinct input hashes that result in 13 distinct outputs (81.25%)
+[2022.04.27-09.22.10:553][699]LogShaderCompilers: Display: RAM used: 0.06 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2022.04.27-09.22.10:553][699]LogShaderCompilers: Display: ================================================
+[2022.04.27-09.22.10:905][699]LogShaderCompilers: Display: Shaders left to compile 0
