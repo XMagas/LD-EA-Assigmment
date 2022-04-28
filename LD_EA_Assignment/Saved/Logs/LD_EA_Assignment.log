@@ -1481,3 +1481,808 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.28-10.53.34:323][581]LogFileHelpers: Saving map 'TheKeepLevel' took 0.083
 [2022.04.28-10.53.34:341][581]AssetCheck: New page: Asset Save: TheKeepLevel
 [2022.04.28-10.53.34:341][581]LogContentValidation: Display: Validating World /Game/TheKeepLevel.TheKeepLevel
+[2022.04.28-10.56.59:250][868]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_4by66)
+[2022.04.28-10.59.50:428][212]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_floor_4x49)
+[2022.04.28-10.59.56:077][543]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_106)
+[2022.04.28-10.59.58:065][660]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_113)
+[2022.04.28-10.59.59:947][771]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_111)
+[2022.04.28-11.00.01:146][841]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_107)
+[2022.04.28-11.03.45:784][843]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_door)
+[2022.04.28-11.03.48:941][ 28]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_401)
+[2022.04.28-11.03.51:548][182]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_404)
+[2022.04.28-11.03.52:098][213]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_door2)
+[2022.04.28-11.03.52:610][242]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_404)
+[2022.04.28-11.03.52:941][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_403)
+[2022.04.28-11.03.53:228][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_403)
+[2022.04.28-11.03.53:853][312]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_404)
+[2022.04.28-11.03.55:021][380]Cmd: DELETE
+[2022.04.28-11.03.55:021][380]Cmd: ACTOR DELETE
+[2022.04.28-11.03.55:025][380]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.28-11.03.55:032][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.04.28-11.03.55:038][380]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2022.04.28-11.03.55:763][424]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_405)
+[2022.04.28-11.03.56:023][437]Cmd: DELETE
+[2022.04.28-11.03.56:023][437]Cmd: ACTOR DELETE
+[2022.04.28-11.03.56:027][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.28-11.03.56:033][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.04.28-11.03.56:034][437]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2022.04.28-11.04.02:490][824]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_401)
+[2022.04.28-11.04.02:912][847]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_door2)
+[2022.04.28-11.04.07:852][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,002, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:852][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,005, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:853][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,007, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:853][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,01, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:853][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,012, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:854][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,015, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:854][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,017, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:854][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,02, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:854][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,022, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:855][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,025, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:855][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,028, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:855][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,03, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:856][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,033, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:856][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,035, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:856][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,038, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:857][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,04, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:857][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,043, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:857][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,045, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:858][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,048, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:858][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,05, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:858][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,053, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:858][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,055, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:859][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,058, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:859][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,06, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:859][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,062, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:860][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,065, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:860][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,067, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:860][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,07, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:860][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,072, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:861][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,075, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:861][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,08, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:861][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,082, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:862][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,085, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:862][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,087, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:862][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,09, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:863][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,092, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:863][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,095, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:863][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,097, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:864][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,10, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:864][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,102, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:864][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,105, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:865][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,107, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:865][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,11, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:865][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,112, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:866][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,115, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:866][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,117, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:866][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,12, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:866][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,122, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:867][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,125, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:867][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,127, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:867][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,13, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:867][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,132, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:868][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,135, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:868][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,137, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:868][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,14, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:869][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,142, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:869][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,145, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:869][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,147, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:870][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,15, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:870][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,153, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:870][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,155, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:871][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,158, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:871][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,16, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:871][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,163, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:871][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,165, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:871][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,168, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:872][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,17, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:872][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,173, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:872][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,175, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:873][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,178, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:873][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,18, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:874][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,183, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:874][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,185, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:874][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,188, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:874][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,19, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:875][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,192, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:875][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,195, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:875][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,197, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:875][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,20, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:875][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,202, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:876][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,205, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:876][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,207, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:876][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,21, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:876][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,212, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:877][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,215, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:877][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,217, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:877][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,22, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:877][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,222, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:878][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,225, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:878][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,227, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:878][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,23, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:878][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,232, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:879][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,235, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:879][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,237, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:879][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,24, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:880][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,242, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:880][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,245, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:880][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,247, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:880][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,25, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:881][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,252, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:881][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,255, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:881][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,257, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:881][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,26, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:881][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,262, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:882][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,265, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:882][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,267, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:882][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,27, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:882][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,272, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:883][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,275, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:883][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,277, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:883][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,28, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:883][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,283, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:884][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,285, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:884][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,288, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:884][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,29, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:884][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,293, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:885][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,295, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:885][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,298, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:885][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,30, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:885][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,303, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:886][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,305, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:886][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,308, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:886][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,31, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:886][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,312, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:886][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,315, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:887][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,317, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:887][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,32, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:887][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,322, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:888][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,325, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:888][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,327, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:888][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,33, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:888][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,332, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:888][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,335, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:889][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,337, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:889][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,34, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:889][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,342, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:889][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,345, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:890][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,347, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:890][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,35, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:890][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,352, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:890][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,355, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:890][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,357, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:891][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,36, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:891][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,362, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:891][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,365, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:891][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,367, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:892][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,37, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:892][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,372, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:892][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,375, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:892][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,377, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:892][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,38, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:893][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,382, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:893][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,385, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:894][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,387, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:894][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,39, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:894][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,392, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:895][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,395, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:895][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,397, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:895][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,40, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:895][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,402, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:896][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,405, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:896][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,407, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:896][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,41, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:897][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,413, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:897][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,415, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:897][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,418, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:898][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,42, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:898][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,423, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:898][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,425, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:899][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,428, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:899][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,43, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:899][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,433, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:899][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,435, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:900][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,438, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:900][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,44, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:900][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,442, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:900][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,445, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:901][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,447, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:901][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,45, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:901][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,452, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:901][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,455, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:902][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,457, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:902][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,46, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.07:902][ 91]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,462, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:095][103]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,46, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:112][104]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,457, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:112][104]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,455, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:129][105]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,452, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:130][105]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,45, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:130][105]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,447, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:130][105]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,445, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:146][106]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,442, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:146][106]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,44, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:147][106]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,438, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:147][106]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,435, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:147][106]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,433, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:163][107]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,43, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:163][107]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,428, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:164][107]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,425, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:165][107]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,423, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:165][107]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,42, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:166][107]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,418, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:181][108]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,415, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:182][108]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,413, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:182][108]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,41, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:183][108]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,407, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:198][109]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,405, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:199][109]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,402, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:200][109]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,40, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:200][109]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,397, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:232][111]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,395, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:249][112]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,392, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:265][113]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,39, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:266][113]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,387, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:267][113]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,385, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:282][114]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,382, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:282][114]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,38, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:283][114]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,377, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:283][114]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,375, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:299][115]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,372, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:299][115]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,37, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:299][115]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,367, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:316][116]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,365, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:465][125]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,367, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:732][141]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,37, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:732][141]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,372, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:749][142]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,375, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:750][142]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,377, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:750][142]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,38, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:750][142]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,382, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:750][142]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,385, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:751][142]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,387, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:751][142]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,39, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:766][143]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,392, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:766][143]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,395, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:766][143]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,397, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:767][143]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,40, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:767][143]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,402, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:767][143]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,405, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:768][143]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,407, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:768][143]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,41, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:768][143]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,413, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:768][143]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,415, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:782][144]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,418, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:783][144]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,42, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:784][144]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,423, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:784][144]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,425, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:784][144]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,428, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:784][144]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,43, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:785][144]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,433, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:785][144]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,438, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:785][144]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,44, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:785][144]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,442, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:786][144]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,445, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:786][144]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,447, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:786][144]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,45, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:786][144]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,452, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:787][144]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,455, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:799][145]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,457, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:799][145]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,462, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:800][145]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,465, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:800][145]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,467, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:800][145]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,47, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:800][145]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,472, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:801][145]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,477, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:801][145]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,48, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:801][145]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,482, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:801][145]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,487, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:802][145]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,49, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:803][145]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,492, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:803][145]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,495, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:803][145]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,497, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:803][145]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,502, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:804][145]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,505, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:816][146]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,51, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:816][146]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,512, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:817][146]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,52, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:817][146]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,525, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:817][146]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,53, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:818][146]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,535, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:818][146]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,538, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:818][146]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,543, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:819][146]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,545, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:819][146]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,55, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:819][146]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,553, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:819][146]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,555, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:820][146]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,56, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:831][147]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,562, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:833][147]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,565, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:833][147]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,57, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:833][147]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,572, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:833][147]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,575, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:833][147]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,58, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:833][147]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,582, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:834][147]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,587, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:834][147]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,59, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:834][147]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,595, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:834][147]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,597, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:835][147]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,60, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:835][147]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,605, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:836][147]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,607, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:836][147]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,61, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:836][147]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,615, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:848][148]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,617, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:849][148]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,62, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:849][148]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,625, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:849][148]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,63, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:849][148]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,635, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:850][148]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,637, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:850][148]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,64, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:850][148]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,642, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:850][148]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,645, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:851][148]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,647, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:851][148]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,65, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:851][148]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,652, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:865][149]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,655, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:866][149]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,657, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:866][149]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,66, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:866][149]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,662, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:866][149]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,665, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:867][149]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,668, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:867][149]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,67, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:867][149]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,673, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:867][149]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,675, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:867][149]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,678, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:868][149]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,68, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:868][149]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,683, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:868][149]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,685, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:881][150]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,688, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:882][150]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,69, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:882][150]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,692, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:882][150]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,695, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:883][150]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,697, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:883][150]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,70, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:898][151]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,702, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:899][151]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,705, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:899][151]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,707, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:899][151]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,71, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.08:915][152]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,712, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:115][164]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,71, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:115][164]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,707, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:132][165]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,705, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:132][165]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,702, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:148][166]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,70, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:148][166]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,697, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:149][166]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,695, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:149][166]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,692, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:149][166]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,69, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:150][166]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,688, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:150][166]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,685, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:165][167]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,683, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:165][167]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,68, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:166][167]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,678, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:166][167]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,675, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:166][167]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,673, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:166][167]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,67, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:167][167]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,668, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:167][167]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,665, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:182][168]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,662, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:182][168]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,66, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:182][168]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,657, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:183][168]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,655, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:183][168]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,652, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:183][168]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,65, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:184][168]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,647, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:184][168]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,645, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:184][168]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,642, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:185][168]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,64, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:185][168]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,637, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:198][169]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,635, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:199][169]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,632, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:199][169]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,63, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:199][169]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,627, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:200][169]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,625, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:200][169]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,622, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:200][169]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,62, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:200][169]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,617, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:201][169]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,615, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:201][169]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,612, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:215][170]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,61, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:215][170]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,607, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:216][170]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,605, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:216][170]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,602, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:216][170]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,60, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:217][170]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,597, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:217][170]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,595, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:232][171]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,592, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:232][171]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,59, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:232][171]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,587, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:249][172]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,585, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:249][172]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,582, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.09:515][188]PIE: Warning: Applying invalid scale V(X=1,00, Y=1,585, Z=1,00) to body SM_LDK2_wall_door2_30
+[2022.04.28-11.04.17:173][595]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_floor_4x70)
+[2022.04.28-11.04.17:635][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_door2)
+[2022.04.28-11.04.18:074][644]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_401)
+[2022.04.28-11.04.18:488][667]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_door2)
+[2022.04.28-11.04.18:972][694]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_401)
+[2022.04.28-11.04.19:543][726]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_door2)
+[2022.04.28-11.04.20:058][755]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_401)
+[2022.04.28-11.04.21:724][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_door2)
+[2022.04.28-11.04.22:189][879]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2022.04.28-11.04.24:135][993]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_403)
+[2022.04.28-11.04.24:636][ 21]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_402)
+[2022.04.28-11.04.25:108][ 47]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_403)
+[2022.04.28-11.04.26:393][122]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_401)
+[2022.04.28-11.04.26:697][138]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_400)
+[2022.04.28-11.04.28:106][220]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2022.04.28-11.04.57:484][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.04.28-11.04.57:556][899]LogSavePackage: Moving 'C:/Users/andre/Documents/University Stuff/Future Games/LD-EA Course/LD-EA Game/LD-EA-Assigmment/LD_EA_Assignment/Saved/TheKeepLevel_Auto2C7E59FC04D9AC08D4BB7C78789FC34C4.tmp' to 'C:/Users/andre/Documents/University Stuff/Future Games/LD-EA Course/LD-EA Game/LD-EA-Assigmment/LD_EA_Assignment/Saved/Autosaves/Game/TheKeepLevel_Auto2.umap'
+[2022.04.28-11.04.57:560][899]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TheKeepLevel' took 0.081
+[2022.04.28-11.04.57:560][899]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.081
+[2022.04.28-11.04.59:083][978]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.28-11.04.59:477][998]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_4by66)
+[2022.04.28-11.05.02:694][179]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_innercorner5)
+[2022.04.28-11.05.11:826][712]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_innercorner5)
+[2022.04.28-11.05.12:594][756]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_innercorner7)
+[2022.04.28-11.05.15:408][918]Cmd: DELETE
+[2022.04.28-11.05.15:408][918]Cmd: ACTOR DELETE
+[2022.04.28-11.05.15:413][918]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.28-11.05.15:413][918]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.28-11.05.15:413][918]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.28-11.05.15:419][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.04.28-11.05.15:422][918]LogEditorActor: Deleted 3 Actors (0.014 secs)
+[2022.04.28-11.05.16:380][976]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_innercorner3)
+[2022.04.28-11.05.16:619][988]Cmd: DELETE
+[2022.04.28-11.05.16:619][988]Cmd: ACTOR DELETE
+[2022.04.28-11.05.16:624][988]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.28-11.05.16:629][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.04.28-11.05.16:630][988]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2022.04.28-11.05.21:848][301]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_outercorner5)
+[2022.04.28-11.05.22:299][325]Cmd: DELETE
+[2022.04.28-11.05.22:299][325]Cmd: ACTOR DELETE
+[2022.04.28-11.05.22:304][325]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.28-11.05.22:309][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.04.28-11.05.22:311][325]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2022.04.28-11.05.23:185][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_outercorner7)
+[2022.04.28-11.05.23:539][397]Cmd: DELETE
+[2022.04.28-11.05.23:539][397]Cmd: ACTOR DELETE
+[2022.04.28-11.05.23:543][397]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.28-11.05.23:549][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.04.28-11.05.23:551][397]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2022.04.28-11.05.25:060][488]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_outercorner3)
+[2022.04.28-11.05.25:347][503]Cmd: DELETE
+[2022.04.28-11.05.25:347][503]Cmd: ACTOR DELETE
+[2022.04.28-11.05.25:350][503]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.28-11.05.25:356][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.04.28-11.05.25:357][503]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2022.04.28-11.05.26:131][550]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_outercorner)
+[2022.04.28-11.05.26:254][555]Cmd: DELETE
+[2022.04.28-11.05.26:254][555]Cmd: ACTOR DELETE
+[2022.04.28-11.05.26:257][555]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.28-11.05.26:263][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.04.28-11.05.26:264][555]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2022.04.28-11.05.29:789][767]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_4by4)
+[2022.04.28-11.05.30:080][782]Cmd: DELETE
+[2022.04.28-11.05.30:080][782]Cmd: ACTOR DELETE
+[2022.04.28-11.05.30:088][782]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.28-11.05.30:094][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.04.28-11.05.30:096][782]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2022.04.28-11.05.31:857][888]Cmd: TRANSACTION UNDO
+[2022.04.28-11.05.31:857][888]LogEditorTransaction: Undo Delete Actors
+[2022.04.28-11.05.32:989][936]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.28-11.05.34:048][986]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_4by66)
+[2022.04.28-11.05.43:765][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_innercorner2)
+[2022.04.28-11.05.44:443][530]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_407)
+[2022.04.28-11.05.47:736][717]Cmd: EDIT COPY
+[2022.04.28-11.05.48:136][741]Cmd: EDIT PASTE
+[2022.04.28-11.05.50:625][886]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.28-11.05.52:260][981]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_413)
+[2022.04.28-11.05.55:144][144]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_415)
+[2022.04.28-11.05.56:891][244]Cmd: EDIT COPY
+[2022.04.28-11.05.57:378][273]Cmd: EDIT PASTE
+[2022.04.28-11.06.09:651][997]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.28-11.06.23:036][782]Cmd: EDIT COPY
+[2022.04.28-11.06.23:386][803]Cmd: EDIT PASTE
+[2022.04.28-11.06.30:700][232]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_4by59)
+[2022.04.28-11.06.32:563][341]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint4)
+[2022.04.28-11.06.33:451][392]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_4by68)
+[2022.04.28-11.06.35:107][487]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_417)
+[2022.04.28-11.06.36:770][582]Cmd: EDIT COPY
+[2022.04.28-11.06.37:154][605]Cmd: EDIT PASTE
+[2022.04.28-11.06.40:542][805]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint4)
+[2022.04.28-11.06.42:472][918]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_422)
+[2022.04.28-11.06.43:219][960]Cmd: EDIT COPY
+[2022.04.28-11.06.43:571][981]Cmd: EDIT PASTE
+[2022.04.28-11.06.46:026][126]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2022.04.28-11.06.55:447][676]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_4by66)
+[2022.04.28-11.06.58:814][875]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_floor_2x9)
+[2022.04.28-11.07.00:148][953]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint4)
+[2022.04.28-11.07.05:454][269]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_stairs_6)
+[2022.04.28-11.07.05:994][299]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_stairs_7)
+[2022.04.28-11.07.08:578][450]Cmd: EDIT COPY
+[2022.04.28-11.07.56:312][339]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint4)
+[2022.04.28-11.07.58:478][461]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_floor_2x14)
+[2022.04.28-11.07.58:993][489]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_floor_2x15)
+[2022.04.28-11.07.59:513][518]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_floor_1x5)
+[2022.04.28-11.08.00:355][566]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_stairs_9)
+[2022.04.28-11.08.01:369][624]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_stairs_6)
+[2022.04.28-11.08.06:020][898]Cmd: EDIT COPY
+[2022.04.28-11.08.06:664][937]Cmd: EDIT PASTE
+[2022.04.28-11.08.10:577][169]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint4)
+[2022.04.28-11.08.22:183][861]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_stairs_11)
+[2022.04.28-11.08.23:956][964]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_LDK2_stairs_10)
+[2022.04.28-11.08.25:169][ 35]Cmd: DELETE
+[2022.04.28-11.08.25:169][ 35]Cmd: ACTOR DELETE
+[2022.04.28-11.08.25:173][ 35]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.28-11.08.25:173][ 35]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.28-11.08.25:181][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.04.28-11.08.25:185][ 35]LogEditorActor: Deleted 2 Actors (0.016 secs)
+[2022.04.28-11.09.09:191][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_421)
+[2022.04.28-11.09.11:440][475]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_420)
+[2022.04.28-11.09.12:170][516]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_outercorner6)
+[2022.04.28-11.09.18:373][882]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_LDK2_wall_outercorner2)
+[2022.04.28-11.09.18:932][913]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_LDK2_wall_outercorner4)
+[2022.04.28-11.09.21:685][ 73]Cmd: DELETE
+[2022.04.28-11.09.21:685][ 73]Cmd: ACTOR DELETE
+[2022.04.28-11.09.21:689][ 73]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.28-11.09.21:689][ 73]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.28-11.09.21:690][ 73]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.28-11.09.21:696][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.04.28-11.09.21:698][ 73]LogEditorActor: Deleted 3 Actors (0.013 secs)
+[2022.04.28-11.09.23:252][166]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_innercorner2)
+[2022.04.28-11.09.24:012][209]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_LDK2_wall_innercorner8)
+[2022.04.28-11.09.24:501][236]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_LDK2_wall_innercorner6)
+[2022.04.28-11.09.25:685][305]Cmd: DELETE
+[2022.04.28-11.09.25:686][305]Cmd: ACTOR DELETE
+[2022.04.28-11.09.25:694][305]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.28-11.09.25:694][305]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.28-11.09.25:695][305]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.28-11.09.25:700][305]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.04.28-11.09.25:702][305]LogEditorActor: Deleted 3 Actors (0.016 secs)
+[2022.04.28-11.09.30:798][608]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_4by65)
+[2022.04.28-11.09.32:144][686]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_414)
+[2022.04.28-11.09.32:854][726]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_416)
+[2022.04.28-11.09.40:775][196]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_421)
+[2022.04.28-11.09.41:846][258]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_420)
+[2022.04.28-11.09.42:837][315]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_421)
+[2022.04.28-11.09.48:250][621]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_422)
+[2022.04.28-11.09.52:852][882]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2022.04.28-11.10.08:828][827]Cmd: EDIT COPY
+[2022.04.28-11.10.10:346][918]Cmd: EDIT PASTE
+[2022.04.28-11.10.30:448][108]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2022.04.28-11.10.39:681][652]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_429)
+[2022.04.28-11.10.50:467][192]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2022.04.28-11.10.51:156][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_427)
+[2022.04.28-11.10.57:484][553]Cmd: TRANSACTION UNDO
+[2022.04.28-11.10.57:485][553]LogEditorTransaction: Undo Set Location
+[2022.04.28-11.11.00:889][695]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2022.04.28-11.11.04:055][883]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_426)
+[2022.04.28-11.11.06:015][998]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_427)
+[2022.04.28-11.11.06:963][ 53]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2022.04.28-11.11.08:336][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_427)
+[2022.04.28-11.11.17:433][275]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint5)
+[2022.04.28-11.12.22:435][680]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_427)
+[2022.04.28-11.12.25:066][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_428)
+[2022.04.28-11.12.25:518][860]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2022.04.28-11.12.25:883][880]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_427)
+[2022.04.28-11.12.29:087][ 69]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2022.04.28-11.12.33:228][313]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_427)
+[2022.04.28-11.12.43:822][927]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint5)
+[2022.04.28-11.12.46:099][ 61]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_427)
+[2022.04.28-11.12.50:321][303]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint5)
+[2022.04.28-11.12.51:251][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_427)
+[2022.04.28-11.12.53:987][503]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint5)
+[2022.04.28-11.12.55:953][618]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_427)
+[2022.04.28-11.13.01:309][934]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_412)
+[2022.04.28-11.13.02:183][984]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_426)
+[2022.04.28-11.13.07:395][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_424)
+[2022.04.28-11.13.09:177][374]Cmd: DELETE
+[2022.04.28-11.13.09:177][374]Cmd: ACTOR DELETE
+[2022.04.28-11.13.09:182][374]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.28-11.13.09:182][374]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.28-11.13.09:183][374]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.28-11.13.09:191][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.04.28-11.13.09:195][374]LogEditorActor: Deleted 3 Actors (0.018 secs)
+[2022.04.28-11.13.10:302][441]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_429)
+[2022.04.28-11.13.10:402][445]Cmd: DELETE
+[2022.04.28-11.13.10:402][445]Cmd: ACTOR DELETE
+[2022.04.28-11.13.10:406][445]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.28-11.13.10:411][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.04.28-11.13.10:412][445]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2022.04.28-11.13.11:554][514]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_428)
+[2022.04.28-11.13.11:824][528]Cmd: DELETE
+[2022.04.28-11.13.11:824][528]Cmd: ACTOR DELETE
+[2022.04.28-11.13.11:828][528]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.28-11.13.11:834][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.04.28-11.13.11:835][528]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2022.04.28-11.13.15:093][724]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_outercorner8)
+[2022.04.28-11.13.15:226][730]Cmd: DELETE
+[2022.04.28-11.13.15:226][730]Cmd: ACTOR DELETE
+[2022.04.28-11.13.15:230][730]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.28-11.13.15:236][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.04.28-11.13.15:237][730]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2022.04.28-11.13.17:458][863]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_427)
+[2022.04.28-11.13.17:610][870]Cmd: DELETE
+[2022.04.28-11.13.17:610][870]Cmd: ACTOR DELETE
+[2022.04.28-11.13.17:614][870]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.28-11.13.17:620][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.04.28-11.13.17:621][870]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2022.04.28-11.13.19:482][982]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_innercorner4)
+[2022.04.28-11.13.19:631][989]Cmd: DELETE
+[2022.04.28-11.13.19:631][989]Cmd: ACTOR DELETE
+[2022.04.28-11.13.19:636][989]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.28-11.13.19:642][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.04.28-11.13.19:643][989]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2022.04.28-11.13.21:721][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_416)
+[2022.04.28-11.13.27:097][429]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_417)
+[2022.04.28-11.13.28:500][509]Cmd: EDIT COPY
+[2022.04.28-11.13.28:967][537]Cmd: EDIT PASTE
+[2022.04.28-11.13.33:230][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_4by6)
+[2022.04.28-11.13.37:675][ 53]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_410)
+[2022.04.28-11.13.38:241][ 85]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_411)
+[2022.04.28-11.13.40:615][223]Cmd: EDIT COPY
+[2022.04.28-11.13.40:966][244]Cmd: EDIT PASTE
+[2022.04.28-11.13.43:110][370]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint5)
+[2022.04.28-11.13.43:673][402]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_426)
+[2022.04.28-11.13.45:180][488]Cmd: EDIT COPY
+[2022.04.28-11.13.45:513][508]Cmd: EDIT PASTE
+[2022.04.28-11.13.50:208][787]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint4)
+[2022.04.28-11.13.52:294][910]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_426)
+[2022.04.28-11.13.56:664][168]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2022.04.28-11.13.57:729][230]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_416)
+[2022.04.28-11.14.00:858][413]Cmd: EDIT COPY
+[2022.04.28-11.14.01:275][438]Cmd: EDIT PASTE
+[2022.04.28-11.14.05:062][662]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2022.04.28-11.14.08:191][847]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_429)
+[2022.04.28-11.14.09:739][937]Cmd: EDIT COPY
+[2022.04.28-11.14.10:173][963]Cmd: EDIT PASTE
+[2022.04.28-11.14.12:307][ 88]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2022.04.28-11.14.13:155][137]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_431)
+[2022.04.28-11.14.13:950][182]Cmd: EDIT COPY
+[2022.04.28-11.14.14:316][204]Cmd: EDIT PASTE
+[2022.04.28-11.14.16:386][326]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2022.04.28-11.14.18:128][428]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_425)
+[2022.04.28-11.14.19:023][479]Cmd: EDIT COPY
+[2022.04.28-11.14.19:407][502]Cmd: EDIT PASTE
+[2022.04.28-11.14.21:829][645]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2022.04.28-11.14.23:348][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_427)
+[2022.04.28-11.14.24:257][786]Cmd: EDIT COPY
+[2022.04.28-11.14.24:631][808]Cmd: EDIT PASTE
+[2022.04.28-11.14.26:986][947]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2022.04.28-11.15.22:034][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.04.28-11.15.22:118][211]LogSavePackage: Moving 'C:/Users/andre/Documents/University Stuff/Future Games/LD-EA Course/LD-EA Game/LD-EA-Assigmment/LD_EA_Assignment/Saved/TheKeepLevel_Auto375ECABAB43608F5B2AB8C3A821E3AC82.tmp' to 'C:/Users/andre/Documents/University Stuff/Future Games/LD-EA Course/LD-EA Game/LD-EA-Assigmment/LD_EA_Assignment/Saved/Autosaves/Game/TheKeepLevel_Auto3.umap'
+[2022.04.28-11.15.22:120][211]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TheKeepLevel' took 0.095
+[2022.04.28-11.15.22:120][211]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.095
+[2022.04.28-11.15.32:348][242]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_4by8)
+[2022.04.28-11.15.37:945][571]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_104)
+[2022.04.28-11.15.40:195][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_106)
+[2022.04.28-11.15.42:225][822]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_107)
+[2022.04.28-11.15.42:493][836]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_floor_4x39)
+[2022.04.28-11.15.51:259][351]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_door)
+[2022.04.28-11.15.52:851][444]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_door)
+[2022.04.28-11.15.53:226][466]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_4by18)
+[2022.04.28-11.15.53:597][486]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_door)
+[2022.04.28-11.15.59:379][827]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_403)
+[2022.04.28-11.15.59:900][856]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_402)
+[2022.04.28-11.16.02:049][983]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_door2)
+[2022.04.28-11.16.02:735][ 22]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_401)
+[2022.04.28-11.16.03:101][ 42]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_400)
+[2022.04.28-11.16.04:823][142]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_414)
+[2022.04.28-11.16.52:788][912]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2022.04.28-11.17.06:839][752]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2022.04.28-11.17.26:896][950]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_floor_2x15)
+[2022.04.28-11.18.13:045][987]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2022.04.28-11.18.21:176][472]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2022.04.28-11.18.22:198][530]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_floor_1x5)
+[2022.04.28-11.18.24:332][654]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_4by66)
+[2022.04.28-11.18.25:718][735]Cmd: DELETE
+[2022.04.28-11.18.25:718][735]Cmd: ACTOR DELETE
+[2022.04.28-11.18.25:722][735]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.28-11.18.25:728][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.04.28-11.18.25:732][735]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2022.04.28-11.18.36:174][344]LogStaticMesh: Building static mesh SM_LDK2_floor_1x1...
+[2022.04.28-11.18.36:226][344]LogStaticMesh: Built static mesh [0.05s] /Game/LDK_Assets/SM_LDK2_floor_1x1.SM_LDK2_floor_1x1
+[2022.04.28-11.18.36:274][344]LogActorFactory: Actor Factory created SM_LDK2_floor_1x1
+[2022.04.28-11.18.37:036][386]LogActorFactory: Actor Factory created SM_LDK2_floor_1x1
+[2022.04.28-11.18.38:181][452]Cmd: TRANSACTION UNDO
+[2022.04.28-11.18.38:181][452]LogEditorTransaction: Undo Create Actors
+[2022.04.28-11.18.38:803][469]LogActorFactory: Actor Factory created SM_LDK2_wall_25
+[2022.04.28-11.18.40:608][553]LogActorFactory: Actor Factory created SM_LDK2_wall_25
+[2022.04.28-11.18.41:992][631]Cmd: TRANSACTION UNDO
+[2022.04.28-11.18.41:992][631]LogEditorTransaction: Undo Create Actors
+[2022.04.28-11.18.48:521][981]LogActorFactory: Actor Factory created SM_LDK2_floor_1x2
+[2022.04.28-11.18.56:830][477]LogActorFactory: Actor Factory created SM_LDK2_floor_1x2
+[2022.04.28-11.19.11:799][363]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_floor_1x6)
+[2022.04.28-11.19.13:755][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_floor_1x6)
+[2022.04.28-11.19.14:866][508]Cmd: EDIT COPY
+[2022.04.28-11.19.15:400][540]Cmd: EDIT PASTE
+[2022.04.28-11.19.17:925][689]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_floor_1x6)
+[2022.04.28-11.19.19:060][755]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_stairs_9)
+[2022.04.28-11.19.19:614][786]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_floor_1x7)
+[2022.04.28-11.19.22:519][958]Cmd: EDIT COPY
+[2022.04.28-11.19.22:903][981]Cmd: EDIT PASTE
+[2022.04.28-11.19.25:596][140]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_421)
+[2022.04.28-11.19.37:375][537]LogActorFactory: Actor Factory created SM_LDK2_floor_2x2
+[2022.04.28-11.19.39:893][686]LogActorFactory: Actor Factory created SM_LDK2_floor_2x2
+[2022.04.28-11.19.39:959][687]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_411)
+[2022.04.28-11.19.40:022][688]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.04.28-11.19.40:236][699]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.04.28-11.19.40:243][699]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (SM_LDK2_floor_2x16)
+[2022.04.28-11.19.41:620][779]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_floor_2x16)
+[2022.04.28-11.19.42:393][825]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_floor_1x7)
+[2022.04.28-11.19.43:208][872]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_floor_2x16)
+[2022.04.28-11.19.44:876][970]Cmd: EDIT COPY
+[2022.04.28-11.19.45:263][993]Cmd: EDIT PASTE
+[2022.04.28-11.19.55:133][583]Cmd: DELETE
+[2022.04.28-11.19.55:133][583]Cmd: ACTOR DELETE
+[2022.04.28-11.19.55:137][583]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.28-11.19.55:143][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.04.28-11.19.55:147][583]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2022.04.28-11.19.57:456][693]LogActorFactory: Actor Factory created SM_LDK2_floor_4x4
+[2022.04.28-11.19.58:189][732]LogActorFactory: Actor Factory created SM_LDK2_floor_4x4
+[2022.04.28-11.19.58:978][779]LogActorFactory: Actor Factory created SM_LDK2_floor_4x4
+[2022.04.28-11.20.03:373][ 40]Cmd: DELETE
+[2022.04.28-11.20.03:373][ 40]Cmd: ACTOR DELETE
+[2022.04.28-11.20.03:377][ 40]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.28-11.20.03:384][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.04.28-11.20.03:386][ 40]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2022.04.28-11.20.06:106][161]LogActorFactory: Actor Factory created SM_LDK2_floor_2x4
+[2022.04.28-11.20.07:776][257]LogActorFactory: Actor Factory created SM_LDK2_floor_2x4
+[2022.04.28-11.20.29:322][536]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_floor_2x14)
+[2022.04.28-11.20.30:079][579]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_floor_1x6)
+[2022.04.28-11.20.32:871][742]Cmd: EDIT COPY
+[2022.04.28-11.20.33:237][764]Cmd: EDIT PASTE
+[2022.04.28-11.20.35:316][886]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2022.04.28-11.20.36:776][972]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_floor_2x16)
+[2022.04.28-11.20.40:791][210]Cmd: EDIT COPY
+[2022.04.28-11.20.41:160][232]Cmd: EDIT PASTE
+[2022.04.28-11.20.46:185][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_floor_1x10)
+[2022.04.28-11.20.47:188][589]Cmd: EDIT COPY
+[2022.04.28-11.20.47:504][608]Cmd: EDIT PASTE
+[2022.04.28-11.20.49:853][747]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2022.04.28-11.20.54:464][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.04.28-11.20.54:530][  1]LogSavePackage: Moving 'C:/Users/andre/Documents/University Stuff/Future Games/LD-EA Course/LD-EA Game/LD-EA-Assigmment/LD_EA_Assignment/Saved/TheKeepLevel092784D04FF8A21031F3B59665B46A0E.tmp' to 'C:/Users/andre/Documents/University Stuff/Future Games/LD-EA Course/LD-EA Game/LD-EA-Assigmment/LD_EA_Assignment/Content/TheKeepLevel.umap'
+[2022.04.28-11.20.54:563][  1]AssetCheck: New page: Asset Save: TheKeepLevel
+[2022.04.28-11.20.54:563][  1]LogContentValidation: Display: Validating World /Game/TheKeepLevel.TheKeepLevel
+[2022.04.28-11.20.56:453][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.04.28-11.20.57:729][165]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.28-11.20.57:736][165]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.28-11.20.57:736][165]PIE: New page: PIE session: TheKeepLevel (28 Apr 2022, 15:20:57)
+[2022.04.28-11.20.57:784][165]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TheKeepLevel
+[2022.04.28-11.20.57:807][165]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022737s)
+[2022.04.28-11.20.57:809][165]LogAIModule: Creating AISystem for world TheKeepLevel
+[2022.04.28-11.20.57:809][165]LogPlayLevel: PIE: World Init took: (0.002412s)
+[2022.04.28-11.20.57:809][165]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TheKeepLevel.TheKeepLevel to /Game/UEDPIE_0_TheKeepLevel.TheKeepLevel (0.025419s)
+[2022.04.28-11.20.57:817][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.04.28-11.20.57:819][165]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.04.28-11.20.57:820][165]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.28-11.20.57:820][165]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.28-11.20.57:820][165]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.28-11.20.57:820][165]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.28-11.20.57:820][165]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.28-11.20.57:820][165]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.28-11.20.57:820][165]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.28-11.20.57:820][165]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.28-11.20.57:820][165]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.28-11.20.57:820][165]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.28-11.20.57:820][165]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.28-11.20.57:820][165]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.28-11.20.57:832][165]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.28-11.20.57:832][165]LogAudioMixer: Display: 1: FrontRight
+[2022.04.28-11.20.57:847][165]LogAudioMixer: Display: Using Audio Device Högtalare (HyperX Cloud Flight Wireless)
+[2022.04.28-11.20.57:848][165]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.28-11.20.57:848][165]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.28-11.20.57:848][165]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.28-11.20.57:850][165]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.28-11.20.57:850][165]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.28-11.20.57:850][165]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.28-11.20.57:852][165]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.28-11.20.57:852][165]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.28-11.20.57:852][165]LogInit: FAudioDevice initialized.
+[2022.04.28-11.20.57:852][165]LogAudio: Display: Audio Device (ID: 4) registered with world 'TheKeepLevel'.
+[2022.04.28-11.20.57:860][165]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.28-11.20.57:867][165]LogWorld: Bringing World /Game/UEDPIE_0_TheKeepLevel.TheKeepLevel up for play (max tick rate 60) at 2022.04.28-13.20.57
+[2022.04.28-11.20.57:867][165]LogWorld: Bringing up level for play took: 0.005798
+[2022.04.28-11.20.57:867][165]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2022.04.28-11.20.57:870][165]PIE: Server logged in
+[2022.04.28-11.20.57:870][165]PIE: Play in editor total start time 0,135 seconds.
