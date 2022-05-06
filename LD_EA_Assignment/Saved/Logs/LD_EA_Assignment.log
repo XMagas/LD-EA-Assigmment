@@ -3556,3 +3556,412 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.06-21.00.43:516][325]AssetCheck: New page: Asset Save: multiple assets
 [2022.05.06-21.00.43:516][325]LogContentValidation: Display: Validating World /Game/TheKeepLevel.TheKeepLevel
 [2022.05.06-21.00.43:516][325]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TheKeepLevel_BuiltData.TheKeepLevel_BuiltData
+[2022.05.06-21.01.31:882][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.05.06-21.01.32:702][880]LogSlate: Window 'Save Content' being destroyed
+[2022.05.06-21.01.32:736][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchPass_Assets/lambert1" FILE="../../../../../../Users/noaha/Documents/GitHub/LD-EA-Assigmment/LD_EA_Assignment/Content/ArchPass_Assets/lambert1.uasset" SILENT=true
+[2022.05.06-21.01.32:742][880]LogSavePackage: Moving '../../../../../../Users/noaha/Documents/GitHub/LD-EA-Assigmment/LD_EA_Assignment/Saved/lambert1A752884643C5370B10FF5CA1AF1F5551.tmp' to '../../../../../../Users/noaha/Documents/GitHub/LD-EA-Assigmment/LD_EA_Assignment/Content/ArchPass_Assets/lambert1.uasset'
+[2022.05.06-21.01.32:750][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchPass_Assets/lambert3" FILE="../../../../../../Users/noaha/Documents/GitHub/LD-EA-Assigmment/LD_EA_Assignment/Content/ArchPass_Assets/lambert3.uasset" SILENT=true
+[2022.05.06-21.01.32:755][880]LogSavePackage: Moving '../../../../../../Users/noaha/Documents/GitHub/LD-EA-Assigmment/LD_EA_Assignment/Saved/lambert37ECAD7F24DCD1DB9368C59A190EA76CD.tmp' to '../../../../../../Users/noaha/Documents/GitHub/LD-EA-Assigmment/LD_EA_Assignment/Content/ArchPass_Assets/lambert3.uasset'
+[2022.05.06-21.01.32:768][880]LogSavePackage: Moving '../../../../../../Users/noaha/Documents/GitHub/LD-EA-Assigmment/LD_EA_Assignment/Saved/pasted__lambert432C85F8647629A873EF18993CABDCFA6.tmp' to '../../../../../../Users/noaha/Documents/GitHub/LD-EA-Assigmment/LD_EA_Assignment/Content/ArchPass_Assets/pasted__lambert4.uasset'
+[2022.05.06-21.01.32:780][880]LogSavePackage: Moving '../../../../../../Users/noaha/Documents/GitHub/LD-EA-Assigmment/LD_EA_Assignment/Saved/pasted__pasted__lambert382F35280486CAEA8D602669F97CE833C.tmp' to '../../../../../../Users/noaha/Documents/GitHub/LD-EA-Assigmment/LD_EA_Assignment/Content/ArchPass_Assets/pasted__pasted__lambert3.uasset'
+[2022.05.06-21.01.32:793][880]LogSavePackage: Moving '../../../../../../Users/noaha/Documents/GitHub/LD-EA-Assigmment/LD_EA_Assignment/Saved/pasted__pasted__lambert4F4D51A374466CF639D74A3BCC811AC96.tmp' to '../../../../../../Users/noaha/Documents/GitHub/LD-EA-Assigmment/LD_EA_Assignment/Content/ArchPass_Assets/pasted__pasted__lambert4.uasset'
+[2022.05.06-21.01.32:805][880]LogSavePackage: Moving '../../../../../../Users/noaha/Documents/GitHub/LD-EA-Assigmment/LD_EA_Assignment/Saved/pasted__pasted__pasted__lambert46F370F9C4DD10D433575D282F945ED69.tmp' to '../../../../../../Users/noaha/Documents/GitHub/LD-EA-Assigmment/LD_EA_Assignment/Content/ArchPass_Assets/pasted__pasted__pasted__lambert4.uasset'
+[2022.05.06-21.01.32:815][880]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.06-21.01.32:815][880]LogContentValidation: Display: Validating Material /Game/ArchPass_Assets/lambert1.lambert1
+[2022.05.06-21.01.32:815][880]LogContentValidation: Display: Validating Material /Game/ArchPass_Assets/lambert3.lambert3
+[2022.05.06-21.01.32:815][880]LogContentValidation: Display: Validating Material /Game/ArchPass_Assets/pasted__lambert4.pasted__lambert4
+[2022.05.06-21.01.32:815][880]LogContentValidation: Display: Validating Material /Game/ArchPass_Assets/pasted__pasted__lambert3.pasted__pasted__lambert3
+[2022.05.06-21.01.32:815][880]LogContentValidation: Display: Validating Material /Game/ArchPass_Assets/pasted__pasted__lambert4.pasted__pasted__lambert4
+[2022.05.06-21.01.32:815][880]LogContentValidation: Display: Validating Material /Game/ArchPass_Assets/pasted__pasted__pasted__lambert4.pasted__pasted__pasted__lambert4
+[2022.05.06-21.02.04:485][618]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2022.05.06-21.02.14:464][206]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom16)
+[2022.05.06-21.02.15:904][289]Cmd: EDIT COPY
+[2022.05.06-21.02.16:162][304]Cmd: EDIT PASTE
+[2022.05.06-21.02.27:216][965]Cmd: EDIT COPY
+[2022.05.06-21.02.27:499][982]Cmd: EDIT PASTE
+[2022.05.06-21.02.39:966][728]Cmd: EDIT COPY
+[2022.05.06-21.02.40:199][742]Cmd: EDIT PASTE
+[2022.05.06-21.02.51:441][415]Cmd: EDIT COPY
+[2022.05.06-21.02.51:675][429]Cmd: EDIT PASTE
+[2022.05.06-21.03.02:018][ 48]Cmd: EDIT COPY
+[2022.05.06-21.03.03:117][114]Cmd: EDIT PASTE
+[2022.05.06-21.03.11:888][636]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom25)
+[2022.05.06-21.03.14:562][795]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom750)
+[2022.05.06-21.03.15:484][849]Cmd: DELETE
+[2022.05.06-21.03.15:484][849]Cmd: ACTOR DELETE
+[2022.05.06-21.03.15:502][849]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.06-21.03.15:509][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.05.06-21.03.15:512][849]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2022.05.06-21.03.18:486][ 28]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_417)
+[2022.05.06-21.03.20:297][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_4by44)
+[2022.05.06-21.03.20:893][167]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_417)
+[2022.05.06-21.03.21:406][196]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom24)
+[2022.05.06-21.03.38:248][192]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom20)
+[2022.05.06-21.03.39:001][236]Cmd: EDIT COPY
+[2022.05.06-21.03.39:184][247]Cmd: EDIT PASTE
+[2022.05.06-21.03.46:170][662]Cmd: EDIT COPY
+[2022.05.06-21.03.46:387][675]Cmd: EDIT PASTE
+[2022.05.06-21.03.47:553][744]Cmd: EDIT PASTE
+[2022.05.06-21.03.49:136][838]Cmd: EDIT PASTE
+[2022.05.06-21.03.50:712][931]Cmd: EDIT PASTE
+[2022.05.06-21.03.52:570][ 41]Cmd: EDIT PASTE
+[2022.05.06-21.03.59:549][452]Cmd: EDIT COPY
+[2022.05.06-21.03.59:783][466]Cmd: EDIT PASTE
+[2022.05.06-21.04.16:201][449]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom756)
+[2022.05.06-21.04.17:224][509]Cmd: DELETE
+[2022.05.06-21.04.17:224][509]Cmd: ACTOR DELETE
+[2022.05.06-21.04.17:240][509]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.06-21.04.17:247][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.05.06-21.04.17:249][509]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2022.05.06-21.04.17:673][535]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom757)
+[2022.05.06-21.04.17:894][547]Cmd: DELETE
+[2022.05.06-21.04.17:894][547]Cmd: ACTOR DELETE
+[2022.05.06-21.04.17:911][547]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.06-21.04.17:918][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.05.06-21.04.17:918][547]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2022.05.06-21.04.20:033][674]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom758)
+[2022.05.06-21.04.20:719][714]Cmd: EDIT COPY
+[2022.05.06-21.04.20:936][727]Cmd: EDIT PASTE
+[2022.05.06-21.04.27:541][118]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Pass1_wall_1way_bottom748)
+[2022.05.06-21.04.28:343][161]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom758)
+[2022.05.06-21.04.28:767][185]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_wall_innercorner42)
+[2022.05.06-21.04.30:125][265]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom748)
+[2022.05.06-21.04.31:531][348]Cmd: EDIT COPY
+[2022.05.06-21.04.31:748][361]Cmd: EDIT PASTE
+[2022.05.06-21.04.41:934][970]Cmd: EDIT COPY
+[2022.05.06-21.04.42:168][984]Cmd: EDIT PASTE
+[2022.05.06-21.04.43:596][ 68]Cmd: EDIT PASTE
+[2022.05.06-21.04.46:370][233]Cmd: EDIT PASTE
+[2022.05.06-21.04.49:373][412]Cmd: EDIT PASTE
+[2022.05.06-21.04.51:162][518]Cmd: EDIT PASTE
+[2022.05.06-21.04.52:914][622]Cmd: EDIT PASTE
+[2022.05.06-21.04.55:073][750]Cmd: EDIT PASTE
+[2022.05.06-21.05.03:134][232]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LDK2_door_2way6)
+[2022.05.06-21.05.05:190][354]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom762)
+[2022.05.06-21.05.21:279][318]Cmd: EDIT COPY
+[2022.05.06-21.05.21:563][335]Cmd: EDIT PASTE
+[2022.05.06-21.05.38:269][330]Cmd: EDIT COPY
+[2022.05.06-21.05.38:503][344]Cmd: EDIT PASTE
+[2022.05.06-21.05.45:998][792]Cmd: EDIT COPY
+[2022.05.06-21.05.46:465][820]Cmd: EDIT PASTE
+[2022.05.06-21.05.53:085][216]Cmd: EDIT COPY
+[2022.05.06-21.05.53:401][235]Cmd: EDIT PASTE
+[2022.05.06-21.06.09:429][194]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom283)
+[2022.05.06-21.06.12:870][394]Cmd: EDIT COPY
+[2022.05.06-21.06.13:187][413]Cmd: EDIT PASTE
+[2022.05.06-21.06.18:650][739]Cmd: EDIT PASTE
+[2022.05.06-21.06.28:795][346]Cmd: EDIT COPY
+[2022.05.06-21.06.29:012][359]Cmd: EDIT PASTE
+[2022.05.06-21.06.33:208][609]Cmd: EDIT PASTE
+[2022.05.06-21.06.42:951][192]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom748)
+[2022.05.06-21.06.44:608][290]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom758)
+[2022.05.06-21.07.02:172][335]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom748)
+[2022.05.06-21.07.02:832][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom762)
+[2022.05.06-21.07.03:370][404]Cmd: EDIT COPY
+[2022.05.06-21.07.03:621][419]Cmd: EDIT PASTE
+[2022.05.06-21.07.15:183][107]Cmd: EDIT COPY
+[2022.05.06-21.07.15:466][124]Cmd: EDIT PASTE
+[2022.05.06-21.07.17:210][227]Cmd: EDIT CUT
+[2022.05.06-21.07.17:227][227]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.06-21.07.17:237][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.05.06-21.07.17:239][227]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2022.05.06-21.07.18:236][287]Cmd: TRANSACTION UNDO
+[2022.05.06-21.07.18:236][287]LogEditorTransaction: Undo Cut
+[2022.05.06-21.07.19:045][327]Cmd: EDIT COPY
+[2022.05.06-21.07.19:279][341]Cmd: EDIT PASTE
+[2022.05.06-21.07.20:470][411]Cmd: EDIT PASTE
+[2022.05.06-21.07.24:824][667]Cmd: EDIT COPY
+[2022.05.06-21.07.25:124][685]Cmd: EDIT PASTE
+[2022.05.06-21.07.36:002][336]Cmd: EDIT CUT
+[2022.05.06-21.07.36:020][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.06-21.07.36:021][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.06-21.07.36:021][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.06-21.07.36:021][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.06-21.07.36:030][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.05.06-21.07.36:032][336]LogEditorActor: Deleted 4 Actors (0.029 secs)
+[2022.05.06-21.07.38:994][514]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom758)
+[2022.05.06-21.07.44:431][833]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom761)
+[2022.05.06-21.07.59:787][738]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom794)
+[2022.05.06-21.08.00:629][787]Cmd: EDIT COPY
+[2022.05.06-21.08.00:847][800]Cmd: EDIT PASTE
+[2022.05.06-21.08.10:293][362]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom793)
+[2022.05.06-21.08.15:781][684]Cmd: EDIT COPY
+[2022.05.06-21.08.16:081][702]Cmd: EDIT PASTE
+[2022.05.06-21.08.27:508][386]Cmd: EDIT COPY
+[2022.05.06-21.08.27:724][399]Cmd: EDIT PASTE
+[2022.05.06-21.08.29:551][507]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom801)
+[2022.05.06-21.08.31:940][649]Cmd: DELETE
+[2022.05.06-21.08.31:940][649]Cmd: ACTOR DELETE
+[2022.05.06-21.08.31:957][649]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.06-21.08.31:966][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.05.06-21.08.31:968][649]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2022.05.06-21.08.32:367][673]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom803)
+[2022.05.06-21.08.33:972][768]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom802)
+[2022.05.06-21.08.35:392][852]Cmd: TRANSACTION UNDO
+[2022.05.06-21.08.35:392][852]LogEditorTransaction: Undo Move Actors
+[2022.05.06-21.08.35:619][863]Cmd: TRANSACTION UNDO
+[2022.05.06-21.08.35:619][863]LogEditorTransaction: Undo Clicking on Actors
+[2022.05.06-21.08.35:795][869]Cmd: TRANSACTION UNDO
+[2022.05.06-21.08.35:795][869]LogEditorTransaction: Undo Move Actors
+[2022.05.06-21.08.38:487][ 30]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom797)
+[2022.05.06-21.08.39:165][ 69]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom769)
+[2022.05.06-21.08.39:869][110]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom797)
+[2022.05.06-21.08.45:808][455]Cmd: EDIT COPY
+[2022.05.06-21.08.46:025][468]Cmd: EDIT PASTE
+[2022.05.06-21.08.55:923][ 60]Cmd: EDIT COPY
+[2022.05.06-21.08.56:140][ 73]Cmd: EDIT PASTE
+[2022.05.06-21.09.03:373][505]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom813)
+[2022.05.06-21.09.04:417][565]Cmd: EDIT COPY
+[2022.05.06-21.09.04:651][579]Cmd: EDIT PASTE
+[2022.05.06-21.09.06:988][718]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2022.05.06-21.09.10:987][957]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom783)
+[2022.05.06-21.09.11:902][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.05.06-21.09.12:159][  9]LogSavePackage: Moving '../../../../../../Users/noaha/Documents/GitHub/LD-EA-Assigmment/LD_EA_Assignment/Saved/TheKeepLevelD367A2E343E9D2803FDF4EB0C2DBD711.tmp' to '../../../../../../Users/noaha/Documents/GitHub/LD-EA-Assigmment/LD_EA_Assignment/Content/TheKeepLevel.umap'
+[2022.05.06-21.09.12:185][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TheKeepLevel_BuiltData" FILE="../../../../../../Users/noaha/Documents/GitHub/LD-EA-Assigmment/LD_EA_Assignment/Content/TheKeepLevel_BuiltData.uasset" SILENT=true
+[2022.05.06-21.09.12:185][  9]LogSavePackage: Moving '../../../../../../Users/noaha/Documents/GitHub/LD-EA-Assigmment/LD_EA_Assignment/Saved/TheKeepLevel_BuiltDataCBD952D44A4A7A1A06173781B9372964.tmp' to '../../../../../../Users/noaha/Documents/GitHub/LD-EA-Assigmment/LD_EA_Assignment/Content/TheKeepLevel_BuiltData.uasset'
+[2022.05.06-21.09.12:196][  9]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.06-21.09.12:196][  9]LogContentValidation: Display: Validating World /Game/TheKeepLevel.TheKeepLevel
+[2022.05.06-21.09.12:196][  9]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TheKeepLevel_BuiltData.TheKeepLevel_BuiltData
+[2022.05.06-21.09.14:602][154]Cmd: EDIT COPY
+[2022.05.06-21.09.14:819][167]Cmd: EDIT PASTE
+[2022.05.06-21.09.18:380][379]Cmd: TRANSACTION UNDO
+[2022.05.06-21.09.18:380][379]LogEditorTransaction: Undo Move Actors
+[2022.05.06-21.09.22:962][646]Cmd: EDIT COPY
+[2022.05.06-21.09.23:163][658]Cmd: EDIT PASTE
+[2022.05.06-21.09.26:271][843]Cmd: EDIT COPY
+[2022.05.06-21.09.26:488][856]Cmd: EDIT PASTE
+[2022.05.06-21.09.28:513][976]Cmd: EDIT PASTE
+[2022.05.06-21.09.32:255][199]Cmd: EDIT COPY
+[2022.05.06-21.09.32:505][214]Cmd: EDIT PASTE
+[2022.05.06-21.09.34:930][358]Cmd: EDIT COPY
+[2022.05.06-21.09.35:229][376]Cmd: EDIT PASTE
+[2022.05.06-21.09.36:898][475]Cmd: EDIT PASTE
+[2022.05.06-21.09.40:490][689]Cmd: EDIT COPY
+[2022.05.06-21.09.40:840][710]Cmd: EDIT PASTE
+[2022.05.06-21.09.43:631][876]Cmd: EDIT COPY
+[2022.05.06-21.09.43:931][894]Cmd: EDIT PASTE
+[2022.05.06-21.09.46:139][ 25]Cmd: EDIT COPY
+[2022.05.06-21.09.46:439][ 43]Cmd: EDIT PASTE
+[2022.05.06-21.09.47:973][134]Cmd: EDIT PASTE
+[2022.05.06-21.09.49:708][237]Cmd: EDIT PASTE
+[2022.05.06-21.09.52:126][381]Cmd: EDIT COPY
+[2022.05.06-21.09.52:393][397]Cmd: EDIT PASTE
+[2022.05.06-21.09.54:436][518]Cmd: EDIT COPY
+[2022.05.06-21.09.54:952][549]Cmd: EDIT PASTE
+[2022.05.06-21.09.56:417][636]Cmd: EDIT PASTE
+[2022.05.06-21.09.57:860][721]Cmd: EDIT PASTE
+[2022.05.06-21.09.59:543][821]Cmd: EDIT PASTE
+[2022.05.06-21.10.00:989][906]Cmd: EDIT PASTE
+[2022.05.06-21.10.13:133][611]Cmd: EDIT COPY
+[2022.05.06-21.10.13:400][627]Cmd: EDIT PASTE
+[2022.05.06-21.10.19:090][966]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom828)
+[2022.05.06-21.10.24:144][261]Cmd: EDIT COPY
+[2022.05.06-21.10.24:410][277]Cmd: EDIT PASTE
+[2022.05.06-21.10.26:773][417]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2022.05.06-21.10.34:017][850]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom805)
+[2022.05.06-21.10.39:414][164]Cmd: EDIT COPY
+[2022.05.06-21.10.39:664][179]Cmd: EDIT PASTE
+[2022.05.06-21.10.47:275][631]Cmd: EDIT COPY
+[2022.05.06-21.10.47:509][645]Cmd: EDIT PASTE
+[2022.05.06-21.10.54:665][ 62]Cmd: EDIT COPY
+[2022.05.06-21.10.54:899][ 76]Cmd: EDIT PASTE
+[2022.05.06-21.11.05:450][706]Cmd: EDIT COPY
+[2022.05.06-21.11.05:667][719]Cmd: EDIT PASTE
+[2022.05.06-21.11.14:245][230]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom897)
+[2022.05.06-21.11.16:043][332]Cmd: EDIT COPY
+[2022.05.06-21.11.16:294][347]Cmd: EDIT PASTE
+[2022.05.06-21.11.31:415][231]Cmd: EDIT COPY
+[2022.05.06-21.11.31:632][244]Cmd: EDIT PASTE
+[2022.05.06-21.11.33:564][358]Cmd: TRANSACTION UNDO
+[2022.05.06-21.11.33:564][358]LogEditorTransaction: Undo Move Actors
+[2022.05.06-21.11.34:133][382]Cmd: TRANSACTION UNDO
+[2022.05.06-21.11.34:133][382]LogEditorTransaction: Undo Paste
+[2022.05.06-21.11.36:561][522]Cmd: EDIT COPY
+[2022.05.06-21.11.36:828][538]Cmd: EDIT PASTE
+[2022.05.06-21.11.48:224][218]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom772)
+[2022.05.06-21.11.49:700][305]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Pass1_wall_1way_bottom836)
+[2022.05.06-21.11.50:391][343]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom769)
+[2022.05.06-21.11.54:735][598]Cmd: EDIT COPY
+[2022.05.06-21.11.56:837][724]Cmd: TRANSACTION UNDO
+[2022.05.06-21.11.56:837][724]LogEditorTransaction: Undo Move Actors
+[2022.05.06-21.11.57:481][755]Cmd: EDIT COPY
+[2022.05.06-21.11.57:682][767]Cmd: EDIT PASTE
+[2022.05.06-21.12.07:256][337]Cmd: EDIT COPY
+[2022.05.06-21.12.07:472][350]Cmd: EDIT PASTE
+[2022.05.06-21.12.09:274][456]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2022.05.06-21.12.13:276][695]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom888)
+[2022.05.06-21.12.14:577][770]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom895)
+[2022.05.06-21.12.17:399][938]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom873)
+[2022.05.06-21.12.19:339][ 53]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom889)
+[2022.05.06-21.12.23:763][317]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2022.05.06-21.12.24:664][370]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom943)
+[2022.05.06-21.12.26:323][468]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom890)
+[2022.05.06-21.12.26:998][507]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom889)
+[2022.05.06-21.12.37:016][ 87]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2022.05.06-21.12.42:734][429]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom896)
+[2022.05.06-21.12.47:019][682]Cmd: TRANSACTION UNDO
+[2022.05.06-21.12.47:019][682]LogEditorTransaction: Undo Clicking on Actors
+[2022.05.06-21.12.52:739][  4]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Pass1_wall_1way_bottom881)
+[2022.05.06-21.12.53:614][ 54]Cmd: TRANSACTION UNDO
+[2022.05.06-21.12.53:614][ 54]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2022.05.06-21.12.54:073][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom808)
+[2022.05.06-21.12.54:810][113]Cmd: TRANSACTION UNDO
+[2022.05.06-21.12.54:811][113]LogEditorTransaction: Undo Clicking on Actors
+[2022.05.06-21.13.01:780][528]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom880)
+[2022.05.06-21.13.03:875][650]Cmd: TRANSACTION UNDO
+[2022.05.06-21.13.03:875][650]LogEditorTransaction: Undo Clicking on Actors
+[2022.05.06-21.13.06:397][790]Cmd: TRANSACTION UNDO
+[2022.05.06-21.13.06:397][790]LogEditorTransaction: Undo Clicking on Actors
+[2022.05.06-21.13.21:549][689]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom880)
+[2022.05.06-21.13.22:770][761]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom944)
+[2022.05.06-21.13.24:798][879]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom944)
+[2022.05.06-21.13.25:587][925]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom880)
+[2022.05.06-21.13.32:725][342]Cmd: EDIT COPY
+[2022.05.06-21.13.32:992][358]Cmd: EDIT PASTE
+[2022.05.06-21.13.46:005][135]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint3)
+[2022.05.06-21.13.46:888][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom951)
+[2022.05.06-21.13.50:627][406]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint3)
+[2022.05.06-21.13.51:343][448]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom949)
+[2022.05.06-21.14.02:685][114]Cmd: EDIT COPY
+[2022.05.06-21.14.02:921][128]Cmd: EDIT PASTE
+[2022.05.06-21.14.15:595][885]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom953)
+[2022.05.06-21.14.18:202][ 40]Cmd: EDIT COPY
+[2022.05.06-21.14.18:453][ 55]Cmd: EDIT PASTE
+[2022.05.06-21.14.22:506][297]Cmd: EDIT PASTE
+[2022.05.06-21.14.26:152][514]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom952)
+[2022.05.06-21.14.27:308][582]Cmd: EDIT COPY
+[2022.05.06-21.14.27:541][596]Cmd: EDIT PASTE
+[2022.05.06-21.14.29:718][725]Cmd: EDIT PASTE
+[2022.05.06-21.14.34:764][ 26]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom963)
+[2022.05.06-21.14.39:814][316]Cmd: EDIT COPY
+[2022.05.06-21.14.40:064][331]Cmd: EDIT PASTE
+[2022.05.06-21.14.48:916][857]Cmd: EDIT PASTE
+[2022.05.06-21.14.51:305][998]Cmd: TRANSACTION UNDO
+[2022.05.06-21.14.51:305][998]LogEditorTransaction: Undo Move Actors
+[2022.05.06-21.14.52:110][ 38]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom973)
+[2022.05.06-21.15.00:367][518]Cmd: EDIT PASTE
+[2022.05.06-21.15.01:585][589]Cmd: TRANSACTION UNDO
+[2022.05.06-21.15.01:585][589]LogEditorTransaction: Undo Paste
+[2022.05.06-21.15.02:594][637]Cmd: EDIT COPY
+[2022.05.06-21.15.02:894][655]Cmd: EDIT PASTE
+[2022.05.06-21.15.10:660][104]Cmd: EDIT COPY
+[2022.05.06-21.15.10:910][119]Cmd: EDIT PASTE
+[2022.05.06-21.15.12:607][218]Cmd: EDIT PASTE
+[2022.05.06-21.15.14:449][326]Cmd: EDIT PASTE
+[2022.05.06-21.15.17:134][485]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint3)
+[2022.05.06-21.15.22:088][781]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom850)
+[2022.05.06-21.15.24:894][948]Cmd: EDIT COPY
+[2022.05.06-21.15.25:161][964]Cmd: EDIT PASTE
+[2022.05.06-21.15.29:119][200]Cmd: TRANSACTION UNDO
+[2022.05.06-21.15.29:119][200]LogEditorTransaction: Undo Move Actors
+[2022.05.06-21.15.30:001][243]Cmd: TRANSACTION UNDO
+[2022.05.06-21.15.30:001][243]LogEditorTransaction: Undo Paste
+[2022.05.06-21.15.31:849][352]Cmd: EDIT COPY
+[2022.05.06-21.15.32:065][365]Cmd: EDIT PASTE
+[2022.05.06-21.15.52:094][563]Cmd: EDIT COPY
+[2022.05.06-21.15.52:343][578]Cmd: EDIT PASTE
+[2022.05.06-21.16.10:174][645]Cmd: EDIT COPY
+[2022.05.06-21.16.10:390][658]Cmd: EDIT PASTE
+[2022.05.06-21.16.17:167][ 63]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom1056)
+[2022.05.06-21.16.18:351][131]Cmd: EDIT COPY
+[2022.05.06-21.16.18:568][144]Cmd: EDIT PASTE
+[2022.05.06-21.16.39:854][419]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom1057)
+[2022.05.06-21.16.52:536][177]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom817)
+[2022.05.06-21.16.53:911][258]Cmd: EDIT COPY
+[2022.05.06-21.16.54:161][273]Cmd: EDIT PASTE
+[2022.05.06-21.17.04:419][887]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom1055)
+[2022.05.06-21.17.09:419][184]Cmd: EDIT COPY
+[2022.05.06-21.17.09:719][202]Cmd: EDIT PASTE
+[2022.05.06-21.17.18:431][723]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom1057)
+[2022.05.06-21.17.20:396][837]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom1057)
+[2022.05.06-21.17.21:717][914]Cmd: EDIT COPY
+[2022.05.06-21.17.21:917][926]Cmd: EDIT PASTE
+[2022.05.06-21.17.33:690][628]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom1060)
+[2022.05.06-21.17.36:349][785]Cmd: EDIT COPY
+[2022.05.06-21.17.36:550][797]Cmd: EDIT PASTE
+[2022.05.06-21.17.40:291][ 20]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom1061)
+[2022.05.06-21.17.59:158][144]Cmd: EDIT COPY
+[2022.05.06-21.17.59:442][161]Cmd: EDIT PASTE
+[2022.05.06-21.18.07:919][668]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom1061)
+[2022.05.06-21.18.09:960][789]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom1064)
+[2022.05.06-21.18.28:013][867]Cmd: TRANSACTION UNDO
+[2022.05.06-21.18.28:013][867]LogEditorTransaction: Undo Move Actors
+[2022.05.06-21.18.30:367][996]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom1063)
+[2022.05.06-21.18.35:254][284]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom1067)
+[2022.05.06-21.18.49:410][128]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom1061)
+[2022.05.06-21.18.50:098][168]Cmd: EDIT COPY
+[2022.05.06-21.18.50:332][182]Cmd: EDIT PASTE
+[2022.05.06-21.19.02:622][917]Cmd: EDIT COPY
+[2022.05.06-21.19.02:989][939]Cmd: EDIT PASTE
+[2022.05.06-21.19.09:298][316]Cmd: EDIT COPY
+[2022.05.06-21.19.09:531][330]Cmd: EDIT PASTE
+[2022.05.06-21.19.29:817][524]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom964)
+[2022.05.06-21.19.30:641][572]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom1056)
+[2022.05.06-21.19.57:705][190]Cmd: EDIT COPY
+[2022.05.06-21.19.57:922][203]Cmd: EDIT PASTE
+[2022.05.06-21.20.02:188][457]Cmd: TRANSACTION UNDO
+[2022.05.06-21.20.02:188][457]LogEditorTransaction: Undo Move Actors
+[2022.05.06-21.20.13:239][112]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom819)
+[2022.05.06-21.20.15:545][249]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom1072)
+[2022.05.06-21.20.17:483][364]Cmd: EDIT COPY
+[2022.05.06-21.20.17:732][379]Cmd: EDIT PASTE
+[2022.05.06-21.20.23:830][742]Cmd: EDIT COPY
+[2022.05.06-21.20.24:080][757]Cmd: EDIT PASTE
+[2022.05.06-21.20.30:705][153]Cmd: EDIT COPY
+[2022.05.06-21.20.30:906][165]Cmd: EDIT PASTE
+[2022.05.06-21.20.38:880][642]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom1055)
+[2022.05.06-21.20.55:588][643]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom944)
+[2022.05.06-21.20.56:570][700]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom935)
+[2022.05.06-21.21.02:885][ 61]Cmd: EDIT COPY
+[2022.05.06-21.21.03:102][ 74]Cmd: EDIT PASTE
+[2022.05.06-21.21.06:903][300]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom1084)
+[2022.05.06-21.21.07:228][318]Cmd: EDIT COPY
+[2022.05.06-21.21.07:512][335]Cmd: EDIT PASTE
+[2022.05.06-21.21.10:126][490]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom1083)
+[2022.05.06-21.21.10:618][518]Cmd: EDIT COPY
+[2022.05.06-21.21.10:868][533]Cmd: EDIT PASTE
+[2022.05.06-21.21.25:042][381]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom930)
+[2022.05.06-21.21.33:736][900]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Pass1_wall_1way_bottom921)
+[2022.05.06-21.21.34:287][930]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom932)
+[2022.05.06-21.21.35:244][986]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom931)
+[2022.05.06-21.21.38:238][163]Cmd: EDIT CUT
+[2022.05.06-21.21.38:259][163]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.06-21.21.38:259][163]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.06-21.21.38:270][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.05.06-21.21.38:274][163]LogEditorActor: Deleted 2 Actors (0.036 secs)
+[2022.05.06-21.21.39:192][218]Cmd: TRANSACTION UNDO
+[2022.05.06-21.21.39:192][218]LogEditorTransaction: Undo Cut
+[2022.05.06-21.21.40:754][299]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom936)
+[2022.05.06-21.21.47:435][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom922)
+[2022.05.06-21.21.50:376][869]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom926)
+[2022.05.06-21.21.53:385][ 46]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom821)
+[2022.05.06-21.21.57:327][281]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom942)
+[2022.05.06-21.21.58:122][327]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom915)
+[2022.05.06-21.22.03:131][614]Cmd: EDIT COPY
+[2022.05.06-21.22.03:364][628]Cmd: EDIT PASTE
+[2022.05.06-21.22.06:483][813]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom1095)
+[2022.05.06-21.22.06:790][830]Cmd: EDIT COPY
+[2022.05.06-21.22.07:057][846]Cmd: EDIT PASTE
+[2022.05.06-21.22.09:571][995]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom1096)
+[2022.05.06-21.22.10:062][ 23]Cmd: EDIT COPY
+[2022.05.06-21.22.10:328][ 39]Cmd: EDIT PASTE
+[2022.05.06-21.22.12:426][163]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom915)
+[2022.05.06-21.22.27:756][ 81]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom3)
+[2022.05.06-21.22.28:427][120]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom42)
+[2022.05.06-21.22.29:350][174]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom57)
+[2022.05.06-21.22.29:922][207]Cmd: EDIT COPY
+[2022.05.06-21.22.30:172][222]Cmd: EDIT PASTE
+[2022.05.06-21.22.35:296][528]Cmd: EDIT COPY
+[2022.05.06-21.22.35:946][567]Cmd: EDIT PASTE
+[2022.05.06-21.22.40:825][857]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom251)
+[2022.05.06-21.22.41:648][905]Cmd: EDIT COPY
+[2022.05.06-21.22.41:898][920]Cmd: EDIT PASTE
+[2022.05.06-21.22.45:073][109]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pass1_wall_1way_bottom251)
+[2022.05.06-21.23.12:628][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.05.06-21.23.12:937][759]LogSavePackage: Moving '../../../../../../Users/noaha/Documents/GitHub/LD-EA-Assigmment/LD_EA_Assignment/Saved/TheKeepLevel83230ECA4A1FB7A9FC7F65BCDBA4B192.tmp' to '../../../../../../Users/noaha/Documents/GitHub/LD-EA-Assigmment/LD_EA_Assignment/Content/TheKeepLevel.umap'
+[2022.05.06-21.23.12:954][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TheKeepLevel_BuiltData" FILE="../../../../../../Users/noaha/Documents/GitHub/LD-EA-Assigmment/LD_EA_Assignment/Content/TheKeepLevel_BuiltData.uasset" SILENT=true
+[2022.05.06-21.23.12:955][759]LogSavePackage: Moving '../../../../../../Users/noaha/Documents/GitHub/LD-EA-Assigmment/LD_EA_Assignment/Saved/TheKeepLevel_BuiltData2EFDC19D45B417D6EF5083A1306B3569.tmp' to '../../../../../../Users/noaha/Documents/GitHub/LD-EA-Assigmment/LD_EA_Assignment/Content/TheKeepLevel_BuiltData.uasset'
+[2022.05.06-21.23.12:965][759]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.06-21.23.12:965][759]LogContentValidation: Display: Validating World /Game/TheKeepLevel.TheKeepLevel
+[2022.05.06-21.23.12:965][759]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TheKeepLevel_BuiltData.TheKeepLevel_BuiltData
+[2022.05.06-21.23.14:480][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
